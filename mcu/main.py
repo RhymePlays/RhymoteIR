@@ -1,0 +1,3 @@
+import rhymeConnect
+
+rhymeConnect.start()
